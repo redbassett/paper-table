@@ -1,0 +1,31 @@
+{
+  "name": "paper-table",
+  "version": "0.0.1-alpha",
+  "authors": [
+    "Harry Grillo <harry@redbassett.com>"
+  ],
+  "description": "A Material Design implementation of HTML tables.",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "table",
+    "paper",
+    "material design"
+  ],
+  "main": "paper-table.html",
+  "license": "",
+  "homepage": "https://github.com/redbassett/paper-table",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "/demo/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  }
+}
